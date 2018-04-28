@@ -1,4 +1,4 @@
-year = input("Enter the year\n")
+ year = input("Enter the year\n")
 if(isinstance(year, int)):
     if(year % 4 == 0):
         if((year % 100 != 0) or (year % 400 == 0)):
