@@ -1,4 +1,4 @@
-from array import *
+ from array import *
 N = input()
 my_array =[]
 for i in range (0,N) :
