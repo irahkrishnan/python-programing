@@ -1,4 +1,4 @@
-num1 = input("Enter the first number\n")
+ num1 = input("Enter the first number\n")
 num2 = input("Enter the second number\n")
 num3 = input("Enter third number\n")
 if(num1>=num2):
