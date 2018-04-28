@@ -1,4 +1,4 @@
-ch=raw_input("enter the character\n")
+ch = raw_input("enter the character\n")
 if(ch.isalpha()):
 print("alphabet")
 else:
