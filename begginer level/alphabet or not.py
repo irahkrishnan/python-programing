@@ -1,5 +1,5 @@
-ch = raw_input("Enter the character\n")
-if(ch.isalpha()):
-    print("Alphabet")
+ch = raw_input("enter the charater/n")
+if (ch.isalpha()):
+    print("alphabet")
 else:
-print("Not")
+    print("not")
