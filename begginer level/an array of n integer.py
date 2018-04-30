@@ -1,6 +1,6 @@
 from array import *
 N = input()
-my_array =[]
+my_array =[ ]
 for i in range (0,N) :
     x = input()
     my_array.append(x)
