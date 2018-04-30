@@ -1,4 +1,4 @@
-x = []
+x =[]
 y = raw_input()
 x = y.split(" ")
 N = int(x[0])
